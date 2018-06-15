@@ -1,0 +1,7 @@
+# lines beginning with octothorpes are ignored
+
+s -> hei hoi
+s -> hoi hei
+
+hoi -> moi
+hei -> terve
